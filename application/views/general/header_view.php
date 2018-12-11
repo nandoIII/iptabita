@@ -23,7 +23,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>                        
           </button>
-          <a class="navbar-brand" href="#myPage"><img src="public/img/logo_tabita.png" width="51%" alt="" class="img"> </a>
+          <a class="navbar-brand" href="#myPage"><img src="public/img/logoyletras2.png" width="100%" alt="" class="img"> </a>
         </div>
         <div class="collapse navbar-collapse" id="myNavbar">
           <ul class="nav navbar-nav navbar-right">
